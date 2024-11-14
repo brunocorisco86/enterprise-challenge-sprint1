@@ -32,4 +32,10 @@ FIAP - 1TIAOR - 2024/2
 <img src="Desenho/Desenho de solução.png" alt="Desenho da solução" border="0" width=80% height=80%></a>
 </p>
 
+## Arquivos Importantes
+
+- **Detalhe da solução**: Documentação sobre a solução.
+
+  - [Detalhe de Solução.pdf](Docs/Detalhe de Solução.pdf)
+
 
