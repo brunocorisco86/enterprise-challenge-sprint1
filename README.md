@@ -36,6 +36,6 @@ FIAP - 1TIAOR - 2024/2
 
 - **Detalhe da solução**: Documentação sobre a solução.
 
-  - [Detalhe de Solução.pdf](Docs/Detalhe de Solução.pdf)
+  - [Detalhe_de_Solucao.pdf](Docs/Detalhe_de_Solucao.pdf)
 
 
